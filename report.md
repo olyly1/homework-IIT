@@ -24,3 +24,9 @@
 Перешла в основную ветку командой `git switch main`.
 Слила изменения из ветки отчёта командой `git merge report-branch`.
 Проверила результат командой `git log --oneline`.
+
+## Шаг 6. GitHub
+Зарегистрировалась на GitHub и создала проект homework-IIT.
+Создала токен доступа (Personal access token) для загрузки из терминала.
+Подключила удалённый репозиторий командой `git remote add origin`.
+Загрузила проект командой `git push -u origin main`.
